@@ -1,0 +1,51 @@
+PODS:
+  - AgoraRtcEngine_iOS (3.7.1):
+    - AgoraRtcEngine_iOS/AINS (= 3.7.1)
+    - AgoraRtcEngine_iOS/AV1Dec (= 3.7.1)
+    - AgoraRtcEngine_iOS/ContentInspect (= 3.7.1)
+    - AgoraRtcEngine_iOS/FullAudioFormat (= 3.7.1)
+    - AgoraRtcEngine_iOS/ReplayKit (= 3.7.1)
+    - AgoraRtcEngine_iOS/ROIEnc (= 3.7.1)
+    - AgoraRtcEngine_iOS/RtcBasic (= 3.7.1)
+    - AgoraRtcEngine_iOS/SpatialAudio (= 3.7.1)
+    - AgoraRtcEngine_iOS/SuperResolution (= 3.7.1)
+    - AgoraRtcEngine_iOS/VideoPreprocess (= 3.7.1)
+    - AgoraRtcEngine_iOS/VirtualBackground (= 3.7.1)
+  - AgoraRtcEngine_iOS/AINS (3.7.1)
+  - AgoraRtcEngine_iOS/AV1Dec (3.7.1)
+  - AgoraRtcEngine_iOS/ContentInspect (3.7.1)
+  - AgoraRtcEngine_iOS/FullAudioFormat (3.7.1)
+  - AgoraRtcEngine_iOS/ReplayKit (3.7.1)
+  - AgoraRtcEngine_iOS/ROIEnc (3.7.1)
+  - AgoraRtcEngine_iOS/RtcBasic (3.7.1)
+  - AgoraRtcEngine_iOS/SpatialAudio (3.7.1)
+  - AgoraRtcEngine_iOS/SuperResolution (3.7.1)
+  - AgoraRtcEngine_iOS/VideoPreprocess (3.7.1)
+  - AgoraRtcEngine_iOS/VirtualBackground (3.7.1)
+  - ARVideoKit (1.51)
+
+DEPENDENCIES:
+  - AgoraRtcEngine_iOS
+  - ARVideoKit (from `https://github.com/AFathi/ARVideoKit`, branch `swift_4_2`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraRtcEngine_iOS
+
+EXTERNAL SOURCES:
+  ARVideoKit:
+    :branch: swift_4_2
+    :git: https://github.com/AFathi/ARVideoKit
+
+CHECKOUT OPTIONS:
+  ARVideoKit:
+    :commit: 350a67d63e4fe523a5f5c5ec842f32d6b96d23dc
+    :git: https://github.com/AFathi/ARVideoKit
+
+SPEC CHECKSUMS:
+  AgoraRtcEngine_iOS: f5181c4c32075bab11b0bdfc22e63fa00b9dc5bb
+  ARVideoKit: d575d98274aab060748514aa32ac964c24c1923f
+
+PODFILE CHECKSUM: 2bfa63c95163cecab347447a0275031b44e4ba07
+
+COCOAPODS: 1.11.3
